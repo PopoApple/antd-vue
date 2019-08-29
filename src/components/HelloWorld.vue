@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+      <div class="green page-box">page-box111sss</div>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -55,4 +56,7 @@ li {
 a {
   color: #42b983;
 }
+    .green {
+        background: green;
+    }
 </style>
